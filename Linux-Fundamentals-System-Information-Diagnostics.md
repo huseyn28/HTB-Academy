@@ -32,3 +32,11 @@
 ### 6. What is the name of the network interface that MTU is set to 1500?
 * **Command:** `ip a` or `ifconfig`
 * **Answer:** `ens192`
+
+### 7. What is the name of the hidden "history" file in the htb-user's home directory?
+* **Command:** `ls -la ~ | grep history`
+* **Answer:** `.bash_history`
+
+### 8. What is the index number of the "sudoers" file in the "/etc" directory?
+* **Command:** `ls -i /etc/sudoers`
+* **Answer:** *(Ekranda aldığınız inode rəqəmi)*
